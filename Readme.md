@@ -20,7 +20,7 @@ WHEN I view the title element
 THEN I find a concise, descriptive title
 
 # files included
-HTML.html
+index.html
 style.css
 
 # tools used
